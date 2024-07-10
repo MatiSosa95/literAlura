@@ -1,4 +1,4 @@
-![Badge en Desarrollo](https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green)
+![Badge en Desarrollo](https://img.shields.io/badge/STATUS-FINALIZADO-red)
 
 # <h1 align="center">CHALLENGE DE ALURA</h1>
 
